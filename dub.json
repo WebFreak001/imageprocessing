@@ -1,0 +1,8 @@
+{
+	"name": "imageprocessing",
+	"description": "Small image processing utilities for imageformats",
+	"license": "MIT",
+	"dependencies": {
+		"imageformats": "~>6.1.2"
+	}
+}
